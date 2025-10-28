@@ -1,5 +1,6 @@
 # R_RPG
 In-development game
+
 Combat music done by JX_Jaxie (Youtube: https://www.youtube.com/@JX_Jaxie)
 All visuals done by Jade Ramirez
 Dialogue system built off a tutorial published by World Eater Games (@worldeater_dev on X) - https://worldeater-dev.itch.io/bittersweet-birthday/devlog/224241/howto-a-simple-dialogue-system-in-godot
